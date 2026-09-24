@@ -5,7 +5,7 @@ Unofficial Swift Package Manager compatibility package published by X3M.
 
 ## Why this package exists
 
-The official package <https://github.com/AppLovin/AppLovin-MAX-Swift-Package-IronSource.git> (tag `904020000.0.0`) depends on
+The official package <https://github.com/AppLovin/AppLovin-MAX-Swift-Package-IronSource.git> (tag `905000000.0.0`) depends on
 <https://github.com/ironsource-mobile/Unity-Mediation-iAds-Swift-Package.git>. XMediator integrations use the LevelPlay SDK package
 <https://github.com/ironsource-mobile/LevelPlay-Swift-Package.git> instead. This package's files are authored by X3M: its
 `Package.swift` is generated from an X3M template using only factual values
@@ -16,7 +16,7 @@ hosted here: the adapter binary is fetched from the official URL by SwiftPM.
 
 ## Usage
 
-Depend on this repository (`https://github.com/x3mads/xmediator-applovin-max-ironsource-swift-package.git`) at tag `904020000.0.0` and
+Depend on this repository (`https://github.com/x3mads/xmediator-applovin-max-ironsource-swift-package.git`) at tag `905000000.0.0` and
 use the `AppLovinMediationIronSourceAdapter` product. Tags match the upstream adapter versions
 one-to-one.
 
